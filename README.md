@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Realtime Chat Application
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
@@ -18,3 +19,6 @@ By the end of this video, you will have a strong understanding of how to send an
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+=======
+# Chat-application
+>>>>>>> fbecfbd3eb2094b5cf4167693596c9798979de4e
